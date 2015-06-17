@@ -1,2 +1,2 @@
 # small-data
-lib
+A service
